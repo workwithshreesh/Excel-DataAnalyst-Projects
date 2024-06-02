@@ -1,4 +1,4 @@
-<img width="934" alt="Dashboard" src="https://github.com/workwithshreesh/Excel-DataAnalyst-Projects/assets/117170243/637401c2-019c-4b95-9483-e479129bfd28">
+<img width="925" alt="dashboard" src="https://github.com/workwithshreesh/Excel-DataAnalyst-Projects/assets/117170243/493818f7-533a-4806-ae0e-6668c04b21d9">
 
 # Excel Data Analyst Project: Dynamic Dashboard for Coffee Shop Sales Analysis
 
