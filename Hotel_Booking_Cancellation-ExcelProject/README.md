@@ -1,7 +1,8 @@
 # Hotel Booking Cancellation Analysis
 
 ## Dashboard
-![Screenshot (209)](https://github.com/workwithshreesh/HotelBooking_Cancellation/assets/117170243/a1dd4752-2b7b-4a04-ba8a-99aef25a7d0a)
+<img width="929" alt="dashboard" src="https://github.com/workwithshreesh/Excel-DataAnalyst-Projects/assets/117170243/2ef133af-df10-4e98-94d2-2fbdc2a437a9">
+
 
 
 ## Overview
