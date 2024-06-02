@@ -1,0 +1,45 @@
+Here are some potential analysis questions for each column of the dataset:
+
+1. **Row ID**:
+   - What is the distribution of row IDs in the dataset?
+   - Are there any missing or duplicate row IDs?
+
+2. **Order Priority**:
+   - What are the different order priorities present in the dataset?
+   - How does order priority correlate with other metrics like profit or sales?
+
+3. **Discount**:
+   - What is the average discount offered across all orders?
+   - How does discount correlate with sales or profit?
+
+4. **Unit Price**:
+   - What is the range of unit prices for products?
+   - Are there any outliers in unit prices?
+
+5. **Shipping Cost**:
+   - How does shipping cost vary across different customer segments or product categories?
+   - Is there any relationship between shipping cost and order quantity?
+
+6. **Customer ID** / **Customer Name**:
+   - How many unique customers are there in the dataset?
+   - Who are the top customers in terms of order frequency or total sales?
+
+7. **Ship Mode**:
+   - What are the different shipping modes available?
+   - Does ship mode affect delivery time or shipping cost?
+
+8. **Customer Segment**:
+   - What are the different customer segments?
+   - How do different customer segments contribute to overall sales or profit?
+
+9. **Product Category** / **Product Sub-Category**:
+   - What are the main product categories and sub-categories?
+   - Which product categories/sub-categories generate the most revenue?
+
+
+10. **Product Base Margin**:
+    - What is the average base margin for products?
+
+11. **Country** / **Region** / **State or Province** / **City** / **Postal Code**:
+    - What is the geographical distribution of orders?
+    - Are there any regions or cities with significantly higher sales?
