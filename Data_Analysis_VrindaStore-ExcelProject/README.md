@@ -1,4 +1,6 @@
-![Screenshot (210)](https://github.com/workwithshreesh/VrindaStore_Data-analysis_Visualization/assets/117170243/ac968b51-e6a3-48fc-994d-b5ace488acf3)# Vrinda Store Annual Sales Report (2022)
+<img width="934" alt="Dashboard" src="https://github.com/workwithshreesh/Excel-DataAnalyst-Projects/assets/117170243/637401c2-019c-4b95-9483-e479129bfd28">
+
+# Vrinda Store Annual Sales Report (2022)
 
 This repository contains the data analysis and visualization project for Vrinda Store's annual sales report for the year 2022. The project aims to provide insights into sales trends, customer demographics, order status, geographical distribution, and channel performance.
 
